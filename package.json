@@ -1,0 +1,30 @@
+{
+  "name": "noai-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0",
+    "@react-three/fiber": "^8.15.0",
+    "@react-three/drei": "^9.95.0",
+    "framer-motion": "^11.0.3",
+    "@studio-freight/lenis": "^1.0.42"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/three": "^0.160.0",
+    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10",
+    "postcss": "^8"
+  }
+}
